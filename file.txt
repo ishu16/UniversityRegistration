@@ -1,0 +1,1 @@
+StudentID : 87  |  	 Student name : GHFC  |  	 Course Work : 65  |    |  	 ICT : 59  |  	 Average : 62
